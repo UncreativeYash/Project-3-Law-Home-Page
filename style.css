@@ -5,14 +5,14 @@ body{
 .container {
     position: relative;
     background-color: #2a2822;
-    height: 90vh;
+    height: 95vh;
     width: 100vw;
 }
 
 .navbar {
     display: flex;
     padding-left: 10%;
-    padding-right: 5%;
+    padding-right: 10%;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 4%;
@@ -64,7 +64,7 @@ div.hero {
 .hero-description {
     font-size: larger;
     padding-left: 10%;
-    padding-right: 5%;
+    padding-right: 10%;
 }
 .bottom {
     bottom: -20px;
